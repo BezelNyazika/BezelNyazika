@@ -23,12 +23,12 @@ Currently learning:
 - Deploying apps with Netlify & Vercel
 
 ## 🌍 Connect With Me
-- 📧 Email: [your@email.com]
-- 🔗 LinkedIn: [Your LinkedIn]
+- 📧 Email: [bezelnyazika123@@email.com]
+- 🔗 LinkedIn: [www.linkedin.com/in/bezel-nyazika-6598111a4]
 - 🌐 Portfolio: [Coming Soon!]
 
 ---
 
-Feel free to fork this structure or I can generate the README file content for you, ready to copy-paste. Let me know.
+
 
 
